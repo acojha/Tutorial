@@ -1,3 +1,3 @@
 # Tutorial
 
-This my first encounter with Github
+This is my first encounter with Github
